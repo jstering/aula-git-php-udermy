@@ -12,6 +12,8 @@ Codigo referente a datas em php.
         $data = new DateTime();
         
         echo $data ->format("d/m/y H:i:s");
+        
+        //referente a data. feita no netebeans
         ?>
     </body>
 </html>
